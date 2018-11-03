@@ -1,0 +1,15 @@
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\bin\Debug\netstandard2.0\TouchEffectRepro.deps.json
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\bin\Debug\netstandard2.0\TouchEffectRepro.dll
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\obj\Debug\netstandard2.0\TouchEffectRepro.csprojAssemblyReference.cache
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\obj\Debug\netstandard2.0\TouchEffectRepro.csproj.CoreCompileInputs.cache
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\obj\Debug\netstandard2.0\TouchEffectRepro.AssemblyInfoInputs.cache
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\obj\Debug\netstandard2.0\TouchEffectRepro.AssemblyInfo.cs
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\bin\Debug\netstandard2.0\TouchEffectRepro.pdb
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\obj\Debug\netstandard2.0\TouchEffectRepro.dll
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\obj\Debug\netstandard2.0\TouchEffectRepro.pdb
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\obj\Debug\netstandard2.0\TouchEffectRepro.dll.mdb
+D:\Xamarin Repro\TouchEffectRepro\TouchEffectRepro\TouchEffectRepro\bin\Debug\netstandard2.0\TouchEffectRepro.dll.mdb
